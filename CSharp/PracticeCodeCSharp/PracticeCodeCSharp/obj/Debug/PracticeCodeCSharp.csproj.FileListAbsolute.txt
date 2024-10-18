@@ -1,0 +1,7 @@
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\bin\Debug\PracticeCodeCSharp.exe.config
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\bin\Debug\PracticeCodeCSharp.exe
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\bin\Debug\PracticeCodeCSharp.pdb
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\obj\Debug\PracticeCodeCSharp.csproj.AssemblyReference.cache
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\obj\Debug\PracticeCodeCSharp.csproj.CoreCompileInputs.cache
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\obj\Debug\PracticeCodeCSharp.exe
+D:\dev_practice\LearnComputerScience\CSharp\PracticeCodeCSharp\PracticeCodeCSharp\obj\Debug\PracticeCodeCSharp.pdb
