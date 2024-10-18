@@ -16,3 +16,5 @@ Tổng hợp kiến thức, bài tập về khóa học máy tính: kiến thứ
 ### 1.4. CSharp:
 ### 1.5. Python:
 ### 1.6. Database:
+### 1.7. Linux:
+### 1.8. Computer:
