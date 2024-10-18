@@ -14,6 +14,8 @@ Tổng hợp kiến thức, bài tập về khóa học máy tính: kiến thứ
 ### 1.2. C:
 ### 1.3. C++:
 ### 1.4. CSharp:
+- [CSharpExercies-Part 1](https://github.com/hocvoichuyengia/LearnComputerScience/blob/main/CSharp/PracticeCodeCSharp/CSharpExercises-Part%201.md)
+- 
 ### 1.5. Python:
 ### 1.6. Database:
 ### 1.7. Linux:
